@@ -13,7 +13,7 @@ Description: Configurer des gestes
 Author: Ryan Petrich <rpetrich+activator@gmail.com>
 Depiction: http://rpetri.ch/cydia/activator/beta/
 Dev: rpetrich
-Icon: http://www.iphone3gsystem.fr/wp-content/uploads/2010/09/tweakscydiaicon.png
+Icon: file://CydiaIcon.png
 Name: Activator pour Alex lol
 
 Package: taiguntether83x
@@ -31,5 +31,6 @@ Priority: Important
 Description: taig untether jailbreak for ios8.1.3-ios8.3
 Author: TaiG
 Depiction: http://www.taig.com/cydia/update8.html
+Icon: http://www.iphone3gsystem.fr/wp-content/uploads/2010/09/tweakscydiaicon.png
 Name: TaiG 8.1.3-8.x Untether
 
