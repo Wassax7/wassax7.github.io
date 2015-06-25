@@ -1,5 +1,5 @@
 Package: libactivator
-Version: 1.9.3~beta5
+Version: 1.9.4~beta4
 Architecture: iphoneos-arm
 Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
 Installed-Size: 4172
