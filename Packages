@@ -1,5 +1,25 @@
+Package: com.sull.aria
+Version: 1.1.13-1
+Architecture: iphoneos-arm
+Maintainer: insanelyi <noreply@insanelyi.com>
+Installed-Size: 1112
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: debs//com.sull.aria.deb
+Size: 473054
+MD5sum: 923c10604c9498ad815f330cc54b840f
+SHA1: 32240141af677ce9c4a4ab3d6c9f93541213de3c
+SHA256: d13fd14a3aeffdde9a890dd790a6855eee74dd00eff3155c19311bf426458723
+Section: iTweaks
+Homepage: http://insanelyi.com
+Description: Music tweak: queue, grid views, more...
+Author: pNre
+Depiction: http://repo.insanelyi.com/depiction.php?package=aria
+Icon: file:///Library/PreferenceBundles/AriaPreferences.bundle/Aria@2x.png
+Name: Aria
+Sponsor: insanelyi <http://insanelyi.com>
+
 Package: libactivator
-Version: 1.9.3~beta4
+Version: 1.9.3~beta5
 Architecture: iphoneos-arm
 Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
 Installed-Size: 4172
@@ -7,10 +27,10 @@ Depends: mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), com.a3tweak
 Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.clezz.quickdo, com.clezz.quickdoipad, com.clezz.clezzqd, com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1)
 Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.clezz.quickdo, com.clezz.quickdoipad, com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert
 Filename: debs//libactivator.deb
-Size: 1097378
-MD5sum: a24ca691865c0ba72bf892e0f306eedb
-SHA1: 632cf0aa5c4bfcbebd7b219a7bc6e4764c21d907
-SHA256: 529fc4ca73b8eb9c61c2cc5860f5d7637cfdc221c1fa776535c1266af80880f3
+Size: 1097458
+MD5sum: 2214fc54e5601e30dce1878a137d8f38
+SHA1: f87462c8d5204579f0e8463c7d55d0f481f9702e
+SHA256: e29427d0fbbad6a05fef0944e236944210479bf635adc607cb7372e063d0197f
 Section: System
 Priority: optional
 Homepage: http://rpetri.ch/cydia/activator/beta/
