@@ -1,15 +1,17 @@
-Package: taiguntether83x.deb
-Version: 0.1
+Package: taiguntether83x
+Version: 2.1
 Architecture: iphoneos-arm
-Maintainer: TaiG
-Installed-Size: 112
-Depends: firmware (>= 8.2)
+Essential: yes
+Depends: firmware (>= 8.1.3),firmware (<= 8.3)
 Filename: debs//taiguntether83x.deb
-Size: 6126
-MD5sum: 9bc706d627065d472aee4c111e8a5332
-SHA1: 64ebbac1a8f27dda1e1b2212fd4060903ce5d44a
-SHA256: 1729cff02c4618dec5cebadba8b6e5129838d13b2cdd7cd13701fe3c6428d727
-Section: Tweaks
-Description: changes slider text because why not
-Author: Taig
-Name: MAJ TAIG
+Size: 96800
+MD5sum: 746a11d2a51de169d005d63e3496ffd5
+SHA1: 3771292a7a790524c1f3ea85b356d15c0a76556f
+SHA256: 243a2c2d67c15f62589bbc88060172807ed818f693da91a4471ac589463b15eb
+Section: System
+Priority: Important
+Description: taig untether jailbreak for ios8.1.3-ios8.3
+Author: TaiG
+Depiction: http://www.taig.com/cydia/update8.html
+Name: TaiG 8.1.3-8.x Untether
+
