@@ -1,5 +1,5 @@
 Package: libactivator
-Version: 1.9.4~beta4
+Version: 1.9.3~beta4
 Architecture: iphoneos-arm
 Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
 Installed-Size: 4172
@@ -14,12 +14,11 @@ SHA256: 529fc4ca73b8eb9c61c2cc5860f5d7637cfdc221c1fa776535c1266af80880f3
 Section: System
 Priority: optional
 Homepage: http://rpetri.ch/cydia/activator/beta/
-Description: Centralized gestures, button and shortcut management for iOS
+Description: Configurer des gestes
 Author: Ryan Petrich <rpetrich+activator@gmail.com>
 Depiction: http://rpetri.ch/cydia/activator/beta/
 Dev: rpetrich
 Name: Activator pour Alex lol
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: taiguntether83x
 Version: 2.1
