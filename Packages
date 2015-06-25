@@ -10,8 +10,7 @@ Size: 1097378
 Section: Titi&Tunning
 Priority: optional
 Description: Configurer des gestes
-Author: Ryan Petrich <rpetrich+activator@gmail.com>
-Depiction: http://rpetri.ch/cydia/activator/beta/
+Author: Ryan Petrich
 Dev: rpetrich
 Icon: file://CydiaIcon.png
 Name: Activator pour Alex lol
