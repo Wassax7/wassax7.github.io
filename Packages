@@ -1,60 +1,16 @@
-Package: com.sull.aria
-Version: 1.1.13-1
+Package: fr.wassax7.alextbonne
+Version: 0.5.3~Pre-Alpha-1
 Architecture: iphoneos-arm
-Maintainer: insanelyi <noreply@insanelyi.com>
-Installed-Size: 1112
-Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: debs//com.sull.aria.deb
-Size: 473054
-MD5sum: 923c10604c9498ad815f330cc54b840f
-SHA1: 32240141af677ce9c4a4ab3d6c9f93541213de3c
-SHA256: d13fd14a3aeffdde9a890dd790a6855eee74dd00eff3155c19311bf426458723
-Section: iTweaks
-Homepage: http://insanelyi.com
-Description: Music tweak: queue, grid views, more...
-Author: pNre
-Depiction: http://repo.insanelyi.com/depiction.php?package=aria
-Icon: file:///Library/PreferenceBundles/AriaPreferences.bundle/Aria@2x.png
-Name: Aria
-Sponsor: insanelyi <http://insanelyi.com>
-
-Package: libactivator
-Version: 1.9.3~beta5
-Architecture: iphoneos-arm
-Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
-Installed-Size: 4172
-Depends: mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.6), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
-Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.clezz.quickdo, com.clezz.quickdoipad, com.clezz.clezzqd, com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1)
-Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.clezz.quickdo, com.clezz.quickdoipad, com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert
-Filename: debs//libactivator.deb
-Size: 1097458
-MD5sum: 2214fc54e5601e30dce1878a137d8f38
-SHA1: f87462c8d5204579f0e8463c7d55d0f481f9702e
-SHA256: e29427d0fbbad6a05fef0944e236944210479bf635adc607cb7372e063d0197f
-Section: System
-Priority: optional
-Homepage: http://rpetri.ch/cydia/activator/beta/
-Description: Centralized gestures, button and shortcut management for iOS
-Author: Ryan Petrich <rpetrich+activator@gmail.com>
-Depiction: http://rpetri.ch/cydia/activator/beta/
-Dev: rpetrich
-Name: Activator
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: taiguntether83x
-Version: 2.1
-Architecture: iphoneos-arm
-Essential: yes
-Depends: firmware (>= 8.1.3),firmware (<= 8.3)
-Filename: debs//taiguntether83x.deb
-Size: 96800
-MD5sum: 746a11d2a51de169d005d63e3496ffd5
-SHA1: 3771292a7a790524c1f3ea85b356d15c0a76556f
-SHA256: 243a2c2d67c15f62589bbc88060172807ed818f693da91a4471ac589463b15eb
-Section: System
-Priority: Important
-Description: taig untether jailbreak for ios8.1.3-ios8.3
-Author: TaiG
-Depiction: http://www.taig.com/cydia/update8.html
-Name: TaiG 8.1.3-8.x Untether
+Maintainer: Wassax7
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs//fr.wassax7.alextbonne_0.5.3-Pre-Alpha-1_iphoneos-arm.deb
+Size: 8142
+MD5sum: 5d1edd7a596e81ad6159487fbe9f4f7e
+SHA1: f39ba7dd6cf687879761410b7aa11640bdc29588
+SHA256: b418a5f2c68ab07f0eee581470ba9420568d34746a74c8d93a5415ae22444645
+Section: Tweaks
+Description: En gros le flash du screenshot est remplacer par une notif et le texte du lockscreen est modifié par un truc mieux.
+Author: Wassax7
+Name: AlexTBonne
 
