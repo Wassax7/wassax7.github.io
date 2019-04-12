@@ -1,8 +1,8 @@
-Origin: Charly Madner
-Label: Charly Madner
+Origin: Alex's Repo
+Label: Alex's Repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: POTATO
 Architectures: iphoneos-arm
 Components: main
-Description: French repo for french community
+Description: The ultimate cydia source. 🐗

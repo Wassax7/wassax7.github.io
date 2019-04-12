@@ -1,0 +1,293 @@
+Package: com.leftyfl1p.activatorfix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.activatorfix_0.0.1_iphoneos-arm.deb
+Size: 5646
+MD5sum: 98847e75c28534d55868d93cf91f9335
+SHA1: 7fe2131b03cdebd7c626f455923c74053b52219d
+SHA256: 8094f337f07e5f38a1227457dc810dcc19150ffe56a44407160bb9883b87e733
+Section: Tweaks
+Description: Temporary fix for activator single home button press on 9.3. Assign listeners to the new home button fix section.
+Author: leftyfl1p
+Name: ActivatorHomeButton933Fix
+
+Package: com.leftyfl1p.advertidfaker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.advertidfaker_0.0.1_iphoneos-arm.deb
+Size: 5922
+MD5sum: e0288e853fbd1bfe2281096d67ac8cd6
+SHA1: adb886096a32030024bdfb33d3fdd985aeddd7b6
+SHA256: 0ddfc88ed03a8ca7ee72e73fcd90a09df4bc37bcb1d0ac02a3387317a8733715
+Section: Tweaks
+Description: Fake your Advertising Identifier. Run aditfake in console to regenerate.
+Author: leftyfl1p
+Name: AdvertIDFaker
+
+Package: com.leftyfl1p.autoanswer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.autoanswer_1.0_iphoneos-arm.deb
+Size: 3704
+MD5sum: 0fa94b804fe25d338d8bc10886b2bcae
+SHA1: 76ea205bbe97d994cbbb486d4fecbdeff8ab4727
+SHA256: ae91067756a92dc986d7fbe688b78f3980ddb2d2dff5578ca4b44e495c8ab205
+Section: Tweaks
+Description: Auto answer all FaceTime and audio calls.
+Author: leftyfl1p
+Name: AutoAnswer9
+
+Package: com.leftyfl1p.bloodtype
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.bloodtype_0.0.2_iphoneos-arm.deb
+Size: 2912
+MD5sum: e853be5b95d46a944dc429b655742aa8
+SHA1: 4bb62c1c858b33c78b3476d0f134315ad80914e8
+SHA256: a515d9c5e87740358cf60fdc9e75850f0d276ea9dcbd497d38f3236afb431e29
+Section: Tweaks
+Description: Replaces "B" on the keyboard with 🅱️
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: BloodType
+
+Package: com.leftyfl1p.cydiahigherinstall
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.cydiahigherinstall_0.1_iphoneos-arm.deb
+Size: 3608
+MD5sum: 6dc50c17b19f0f3559ed5d72b3aa701b
+SHA1: cea754b2cf9e7b405ef0abdfb11e7f77dec81214
+SHA256: 19640090171dd4cc88cf46110cf4c3f18e0a43f1cb13bd84eddac0723241e6db
+Section: Tweaks (useless)
+Description: Buy Cydia Store packages on unsupported versions
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: CydiaHigherInstall
+
+Package: com.leftyfl1p.darkcc
+Version: 0.0.1-12+debug
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.darkcc_0.0.1-12+debug_iphoneos-arm.deb
+Size: 4680
+MD5sum: 51c932dd8630cbc70917fb4ba612c8a3
+SHA1: e39c07f86d518c1b97d340c69b621621752b386c
+SHA256: b4a46f3e617567d87c3a1e49af147c4b81d4d8d4ac71a494bee7f92a36a487d0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: leftyfl1p
+Name: DarkCC
+
+Package: com.leftyfl1p.empyreal2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 176
+Depends: mobilesubstrate, applist, firmware (>= 11.0)
+Conflicts: com.leftyfl1p.empyreal
+Filename: debs/com.leftyfl1p.empyreal2_1.0_iphoneos-arm.deb
+Size: 21912
+MD5sum: c061af12b6923a5143c49ba8dac37286
+SHA1: 121a9c95898b6d29e945eed19c88109edcdf5ce9
+SHA256: 48d136bab9b86ba82881be9c130c9ec63e48e22a22a8de07ab3b6860db420843
+Section: Tweaks
+Description: Custom Suggested Apps on iOS 11
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: Empyreal 2
+
+Package: com.leftyfl1p.nopromosappstore
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.nopromosappstore_1.0.1_iphoneos-arm.deb
+Size: 2966
+MD5sum: 9e8d125a62407c6099ecc9cb7485d3ae
+SHA1: 41694021ac9b2dbfb96f4e19e57a997acd498ee2
+SHA256: f83875604300a977baf7efba30e5899c5985a21106b9c852a2b1f27b4ef77d75
+Section: Tweaks
+Description: Removes Ads in AppStore searches
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/nopromosappstore/
+Name: NoPromosAppStore
+
+Package: com.leftyfl1p.nopromostwitter
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.nopromostwitter_1.0.1_iphoneos-arm.deb
+Size: 6374
+MD5sum: df28d8d3f696249f2f25880c083fc880
+SHA1: b52c23946967c0f5d6fce25f06d79a7fd45bbd2d
+SHA256: 45c85dbdae7ea1b44ec89abac1b282d83fc951ae7b681704969b7d74eaad9b9f
+Section: Tweaks
+Description: Removes all forms of bullshit in twitter.app. @leftyfl1p for updates. Confirmed working on twitter 6.60.
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/nopromostwitter
+Name: NoPromosTwitter
+
+Package: com.leftyfl1p.pogobatterysaver
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.pogobatterysaver_0.0.1_iphoneos-arm.deb
+Size: 5724
+MD5sum: 6e05b1fa4c79341c81bd52ae1047baf0
+SHA1: f7d92c663dfe732f1bb87f49faa6aadaad7167b3
+SHA256: 05b671aae4dc9776c8aea094d53eebb4679df7d4519a3a3a30cf46e3ebb92f27
+Section: Tweaks
+Description: Adds back the battery saver functionality in Pokemon Go. Add a background image to /Library/Application Support/PoGoScreensaver/screensaver.png (case sensitive & create folders if you need to) to show when you put the device upside down.
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: PoGoBatterySaver
+
+Package: com.leftyfl1p.polusbluetoothfix
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.polusbluetoothfix_0.0.1-5+debug_iphoneos-arm.deb
+Size: 4466
+MD5sum: f97d184ccbc207716244eb976296fd1e
+SHA1: 8814084dec10a6a684ac674a82f7ae9e3c6d70e5
+SHA256: 9653ddfaf67c8186cf3ab876b8d45ee74526d44ac192ec08d8d6a4cb9b3ff8af
+Section: Tweaks
+Description: Fix polus not remembering if bluetooth is on after respring.
+Author: leftyfl1p
+Name: PolusBluetoothFix
+
+Package: com.leftyfl1p.raisetoanswer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/com.leftyfl1p.raisetoanswer_1.0_iphoneos-arm.deb
+Size: 4840
+MD5sum: 890090f2b32403b92c16e1f344b2cc2b
+SHA1: 13ffafd81eb3028e1ff2fc126c8f09a29dc809dd
+SHA256: defd19e4123e2ffd8b385df017f56b5ef285ea7bb084608ab15a63617bab18c0
+Section: Tweaks
+Description: Fork of MohammadAG’s RaiseToCall. Raise your phone to answer phone calls. Tested on 9.0.2.
+Author: leftyfl1p
+Name: RaiseToAnswer9
+
+Package: com.leftyfl1p.reflex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 1284
+Depends: mobilesubstrate, libactivator
+Filename: debs/com.leftyfl1p.reflex_1.0_iphoneos-arm.deb
+Size: 316528
+MD5sum: 42c9d5385d99c64f5936ef9fa8b6180a
+SHA1: 968686bcb644cc18c71a617804fe6805cd0f1eb5
+SHA256: 20f45c658ddc2e20ed0f8c90e0724edcdf7312b1f78779704ab5512f01444596
+Section: Tweaks
+Description: Another best FLEX manager. Configure with Activator. If you want something done right, do it yourself.
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: reFLEX
+
+Package: com.leftyfl1p.rubbersb
+Version: 0.0.1-16+debug
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.rubbersb_0.0.1-16+debug_iphoneos-arm.deb
+Size: 3906
+MD5sum: 8e81aad7c159e75f1a8133fcfb449cf4
+SHA1: 2e82a4ad8a3e218105a77be61cddf1e2ca1bb765
+SHA256: f82d8f8ab2cdcbce461f3b35079ecc456e8e9c9b70861c9c701eecd622b49951
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: leftyfl1p
+Name: RubberSB
+
+Package: com.leftyfl1p.scrollback
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.scrollback_1.0.1_iphoneos-arm.deb
+Size: 4446
+MD5sum: 1959710b12329e2577af28a3c9e30cdd
+SHA1: 453cb3c01b493d54261f45ff446fda6ae2de9fe2
+SHA256: 2b9f5fdd7b20a633fba6671296c1c28c583bd8352cc8228a90fe0dd4d85ac488
+Section: Tweaks
+Description: Status bar tap to scroll back to last location
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: ScrollBack
+
+Package: com.leftyfl1p.smartbatterypercentage
+Version: 1.0
+Architecture: iphoneos-arm
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.smartbatterypercentage_1.0_iphoneos-arm.deb
+Size: 8826
+MD5sum: 62719a82a1b0a073777b95e096a7a522
+SHA1: a78d60aaa018bdad3dd4c9bda859489c3510e14c
+SHA256: 6b83fffc85a7cf34cc201fce8f601c74d0773f6d06bbbdde3e26b49bbd14bddc
+Section: Tweaks
+Description: Combine the battery % of the device and the Apple Smart Battery Case.
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/smartbatterypercentage
+Name: SmartBatteryPercentage
+
+Package: com.leftyfl1p.snoutreachability
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 1484
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.snoutreachability_0.0.1_iphoneos-arm.deb
+Size: 1413080
+MD5sum: 3682fb6e6826eb868e1e1a1cb577ff5e
+SHA1: a14315ab774726d71a75ec21a36931419f55cda1
+SHA256: 94dd20cedef8434f3725ca853b92fca7213e07da445e986c9736a75f08579ac3
+Section: Tweaks
+Description: Take a closer look at that meme
+Author: leftyfl1p
+Name: SnoutReachability
+
+Package: org.thebigboss.elite
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 332
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/org.thebigboss.elite_1.5_iphoneos-arm.deb
+Size: 22006
+MD5sum: 6117970c34f6840423920912175015a3
+SHA1: 5e7523e3c3a18a86c083f7aac210f2096df027aa
+SHA256: a500b30ebf37f5140a4810bd0a6b938eddbc98c7bafd3cb0dd73d301a6639989
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/?p=com.leftyfl1p.elite
+Icon: https://leftyfl1p.github.io/sileo-icon/org.thebigboss.elite.png
+Name: ColorCodedLogs
+SileoDepiction: https://leftyfl1p.github.io/sileo-depiction/org.thebigboss.elite.json
+
