@@ -1,8 +1,8 @@
-Origin: Wassax7 Repo!
-Label: Wassax7
+Origin: Charly Madner
+Label: Charly Madner
 Suite: stable
 Version: 1.0
-Codename: Wassax7 Repo!
+Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: French repo, for french community
+Description: French repo from french community.
