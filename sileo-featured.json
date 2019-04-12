@@ -4,9 +4,9 @@
     "itemCornerRadius": 10,
     "banners": [
       {
-        "url" : "https://leftyfl1p.github.io/sileo-banner/com.leftyfl1p.carplay.png",
+        "url" : "/sileo-depiction/sileofr.png",
         "title": "SileoFR",
-        "package": "fr.wassax.sileofr",
+        "package": "fr.wassax7.sileofr",
         "hideShadow": true
       },
       {
