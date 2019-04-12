@@ -2,7 +2,7 @@
     "minVersion": "0.1",
     "tabs": [
       {
-        "tabname": "Details",
+        "tabname": "Détails",
         "views": [
           {
             "itemCornerRadius": 4,
@@ -73,7 +73,7 @@
         "class": "DepictionStackView"
       },
       {
-        "tabname": "Changelog",
+        "tabname": "Nouveautés",
         "views": [
           {
             "title": "Version 1.1",
