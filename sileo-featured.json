@@ -5,9 +5,15 @@
     "banners": [
       {
         "url" : "https://leftyfl1p.github.io/sileo-banner/com.leftyfl1p.carplay.png",
-        "title": "CarBridge",
-        "package": "com.leftyfl1p.carplay",
+        "title": "SileoFR",
+        "package": "fr.wassax.sileofr",
         "hideShadow": true
-      }
+      },
+      {
+          "url" : "https://leftyfl1p.github.io/sileo-banner/com.leftyfl1p.carplay.png",
+          "title": "Sileo unc0ver",
+          "package": "com.diatrus.sileo-installer",
+          "hideShadow": true
+      },
     ]
   }
