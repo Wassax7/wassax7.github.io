@@ -1,7 +1,7 @@
 <package>
-	<id>com.sukarodo.samplepackage</id>
-	<name>Sample Package</name>
-	<version>1.0</version>
+	<id>fr.wassax7.sileofr</id>
+	<name>SileoFR</name>
+	<version>0.2.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -23,11 +23,11 @@
 	<screenshots>
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>1.png</image>
 		</screenshot>		
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>2.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
