@@ -1,119 +1,136 @@
 {
-    "minVersion": "0.1",
-    "headerImage": "https://wassax7.github.io/sileo-banner/sileofr.png",
-    "tabs": [
-      {
-        "tabname": "Détails",
-        "views": [
-          {
-            "itemCornerRadius": 4,
-            "itemSize": "{187.5, 333.5}",
-            "screenshots": [
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://camo.githubusercontent.com/1abad6d76179b1ea89e9abc813fb838815fe5ee1/687474703a2f2f696d6775722e636f6d2f34586848706b662e706e67"
-              }
-            ],
-            "class": "DepictionScreenshotsView"
-          },
-          {
-            "markdown": "An updated version of the tweak \"prime\" based on a /r/TweakBounty request.\n\nChanges recent call-log title color based on type of call:\n- <b style=\"color:#24579C\">Blue</b> for incoming calls\n- <b style=\"color:#007D00\">Green</b> for outgoing calls\n- <b style=\"color:#DA0000\">Red</b> for missed calls\n\nColors are configurable in the settings app.\n\nThis project is [open source](https://github.com/leftyfl1p/Elite).",
-            "useSpacing": true,
-            "class": "DepictionMarkdownView"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "title": "Metadata",
-            "class": "DepictionHeaderView"
-          },
-          {
-            "title": "Latest Version",
-            "text": "1.1",
-            "class": "DepictionTableTextView"
-          },
-          {
-            "title": "Last Updated",
-            "text": "2018-12-24",
-            "class": "DepictionTableTextView"
-          },
-          {
-            "title": "Compatibility",
-            "text": "iOS 11 - 12",
-            "class": "DepictionTableTextView"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "title": "Social Links",
-            "class": "DepictionHeaderView"
-          },
-          {
-            "title": "GitHub",
-            "action": "https://github.com/leftyfl1p",
-            "class": "DepictionTableButtonView"
-          },
-          {
-            "title": "Twitter",
-            "action": "https://twitter.com/leftyfl1p",
-            "class": "DepictionTableButtonView"
-          },
-          {
-            "title": "Reddit",
-            "action": "https://reddit.com/u/leftyfl1p",
-            "class": "DepictionTableButtonView"
-          },
-
-          {
-            "spacing": 8,
-            "class": "DepictionSpacerView"
-          }
-        ],
-        "class": "DepictionStackView"
-      },
-      {
-        "tabname": "Nouveautés",
-        "views": [
-          {
-            "title": "Version 1.1",
-            "useBoldText": true,
-            "useBottomMargin": true,
-            "class": "DepictionSubheaderView"
-          },
-          {
-            "markdown": "Création d'un paquet pour plus de facilité d'installation",
-            "useSpacing": false,
-            "class": "DepictionMarkdownView"
-          },
-          {
-            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Sortie le 12 avril 2019<\/small>",
-            "useRawFormat": true,
-            "class": "DepictionMarkdownView"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "title": "Version 1.4",
-            "useBoldText": true,
-            "useBottomMargin": true,
-            "class": "DepictionSubheaderView"
-          },
-          {
-            "markdown": "Added support for iOS 10",
-            "useSpacing": false,
-            "class": "DepictionMarkdownView"
-          },
-          {
-            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released February 22th 2017<\/small>",
-            "useRawFormat": true,
-            "class": "DepictionMarkdownView"
-          }
-        ],
-        "class": "DepictionStackView"
-      }
-    ],
-    "class": "DepictionTabView"
-  }
+	"minVersion": "0.1",
+	"headerImage": "https://github.com/sukarodo/Undecimus_assets//master/Banners/RepoHeader.png",
+	"tabs": [
+	{
+	"tabname": "Details",
+	"views": [
+    {
+	"title":"Title or basic description goes here",
+	"useBoldText":true,
+	"useBottomMargin":false,
+	"class":"DepictionSubheaderView"
+	},
+	{
+	"markdown": "A second thing or subtititle goes here",
+	"useSpacing": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"itemCornerRadius": 6,
+	"itemSize": "{160, 275.41333333333336}",
+	"screenshots": [
+	{
+	"accessibilityText": "Screenshot",
+	"url": "https://github.com/sukarodo/Undecimus_assets/blob/master/Screenshots/screenshot.png?raw=true"
+	},
+	{
+	"accessibilityText": "Screenshot",
+	"url": "https://github.com/sukarodo/Undecimus_assets/blob/master/Screenshots/screenshot2.png?raw=true"
+	}
+	],
+	"class": "DepictionScreenshotsView"
+	},
+	{
+	"markdown": "Other thing goes here",
+	"useSpacing": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+    {
+	"title":"# Other Features:<br/>* Add unsupported repositories<br/>* E-Mail and share your tweak lists easily<br/>* Auto-Respring after installation<br/>* Add multiple repositories at once",
+	"useBoldText":true,
+	"useBottomMargin":false,
+	"class":"DepictionMarkdownView"
+	},
+    {
+	"title":"More Features Coming Soon",
+	"useBoldText":true,
+	"useBottomMargin":false,
+	"class":"DepictionSubheaderView"
+	},
+	{
+	"class": "DepictionSeparatorView"
+	},
+	{
+	"title": "Latest Version",
+	"class": "DepictionHeaderView"
+	},
+	{
+	"title": "Version",
+	"text": "0.0.0",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Released",
+	"text": "2019-01-01",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Price",
+	"text": "Free",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"title": "Developer",
+	"text": "Developer",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Contact Support",
+	"action": "depiction-https://oceantweak.tk/repo/depictions/SupportDepiction.json",
+	"class": "DepictionTableButtonView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Developer name. Hosted by Undecimus Repository.</small><style>body { text-align: center; }</style>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	}
+	],
+	"class": "DepictionStackView"
+	},
+	{
+	"tabname": "Changelog",
+	"views": [
+	{
+	"title": "Version 0.0.1",
+	"useBoldText": true,
+	"useBottomMargin": true,
+	"class": "DepictionSubheaderView"
+	},
+	{
+	"markdown": "* Developer stuff that he or she chaged.",
+	"useSpacing": false,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-01-01</small>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Developer name. Hosted by Undecimus Repository.</small><style>body { text-align: center; }</style>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	}
+	],
+	"class": "DepictionStackView"
+	}
+	],
+	"class": "DepictionTabView"
+	}
