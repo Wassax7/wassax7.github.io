@@ -19,14 +19,14 @@ Version: 0.2.4
 Architecture: iphoneos-arm
 Maintainer: Charly Manderrier
 Filename: ./debs/fr.wassax7.sileofr.deb
-Size: 6324
-MD5sum: 9fa4f66501d1bf142ddc10ce87eac143
-SHA1: 58cdc7b393f901e99d03bcf496a5895ad50015ad
-SHA256: a34e0e2ea4e6a0f009dd27b9a1f9fc72a036069f41c9d0c7ddad74ddc4af45b3
+Size: 6330
+MD5sum: 3f959dc3ee8c28c410ee3a3c4b7d4502
+SHA1: f6f86ef01d3ca22b06662ae3abbdf838e6be7816
+SHA256: a7dab8c20dc19e617296f9d7854020b77da1aa0904c457860b224c992fc41fe6
 Section: Localization
 Description: Traduction française de Sileo!
 Author: Charly Manderrier
 Depiction: https://wassax7.github.io/depictions/?p=fr.wassax7.sileofr
 Name: SileoFR
-Sileodepiction: https://wassax7.github.io/sileo-depictions/fr.wassax7.sileofr/
+Sileodepiction: https://wassax7.github.io/sileo-depictions/fr.wassax7.sileofr/depictions.json
 
