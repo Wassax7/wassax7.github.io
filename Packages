@@ -1,0 +1,32 @@
+Package: fr.wassax7.alextbonne
+Version: 0.5.3~Pre-Alpha-1
+Architecture: iphoneos-arm
+Maintainer: Wassax7
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/fr.wassax7.alextbonne_0.5.3-Pre-Alpha-1_iphoneos-arm.deb
+Size: 8142
+MD5sum: 5d1edd7a596e81ad6159487fbe9f4f7e
+SHA1: f39ba7dd6cf687879761410b7aa11640bdc29588
+SHA256: b418a5f2c68ab07f0eee581470ba9420568d34746a74c8d93a5415ae22444645
+Section: Tweaks
+Description: En gros le flash du screenshot est remplacer par une notif et le texte du lockscreen est modifié par un truc mieux.
+Author: Wassax7
+Name: AlexTBonne
+
+Package: fr.wassax7.sileofr
+Version: 0.2.4
+Architecture: iphoneos-arm
+Maintainer: Charly Manderrier
+Filename: ./debs/fr.wassax7.sileofr.deb
+Size: 6324
+MD5sum: 9fa4f66501d1bf142ddc10ce87eac143
+SHA1: 58cdc7b393f901e99d03bcf496a5895ad50015ad
+SHA256: a34e0e2ea4e6a0f009dd27b9a1f9fc72a036069f41c9d0c7ddad74ddc4af45b3
+Section: Localization
+Description: Traduction française de Sileo!
+Author: Charly Manderrier
+Depiction: https://wassax7.github.io/depictions/?p=fr.wassax7.sileofr
+Name: SileoFR
+Sileodepiction: https://wassax7.github.io/sileo-depictions/fr.wassax7.sileofr/
+
