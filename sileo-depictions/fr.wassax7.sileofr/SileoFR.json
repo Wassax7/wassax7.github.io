@@ -61,6 +61,11 @@
             "class": "DepictionMarkdownView"
         },
         {
+            "text": "Test",
+            "action": "#",
+            "class": "DepictionButtonView"
+        },
+        {
             "class": "DepictionSeparatorView"
         },
         {
