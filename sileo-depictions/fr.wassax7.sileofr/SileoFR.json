@@ -49,16 +49,23 @@
           "class": "DepictionSeparatorView"
         },
         {
-            "rating": "5",
-            "alignment": "0",
-            "class": "DepictionRatingView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "title": "Nouveautés",
           "class": "DepictionHeaderView"
+        },
+        {
+            "title": "Version 0.3.1",
+            "class": "DepictionSubheaderView"
+        },
+        {
+            "markdown": "Ajout d'une Native Depiction",
+            "class": "DepictionMarkdownView"
+        },
+        {
+            "class": "DepictionSeparatorView"
+        },
+        {
+            "title": "Informations",
+            "class": "DepictionHeaderView"
         },
         {
           "title": "Version",
