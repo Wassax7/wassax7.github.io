@@ -36,19 +36,27 @@
           "class": "DepictionScreenshotsView"
         },
         {
-            "title": "Sileo FR",
-            "class": "DepictionHeaderView"
-        },
-        {
           "markdown": "SileoFR vous permet de bénéficier de la modernité de Sileo avec le confort de votre langue maternelle!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
+          "title": "Contacter le développeur",
+          "action": "mailto:contact@charly-manderrier.fr",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+		{
+			"rating": "5",
+			"class": "DepictionRatingView"
+		},
+        {
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "Dernière version",
+          "title": "Nouveautés",
           "class": "DepictionHeaderView"
         },
         {
@@ -70,11 +78,6 @@
           "title": "Développeur",
           "text": "Charly Manderrier",
           "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Contacter le développeur",
-          "action": "mailto:contact@charly-manderrier.fr",
-          "class": "DepictionTableButtonView"
         },
         {
           "spacing": 20,
