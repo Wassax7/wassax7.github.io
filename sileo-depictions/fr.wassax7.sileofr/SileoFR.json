@@ -1,123 +1,125 @@
 {
-  "minVersion": "0.1",
-  "headerImage": "https://wassax7.github.io/sileo-banner/sileofr.png",
-  "tintColor": "",
-  "tabs": [
+	"minVersion": "0.1",
+	"headerImage": "https://wassax7.github.io/sileo-banner/sileofr.png",
+	"tabs": [
+	{
+	"tabname": "Détails",
+	"views": [
     {
-      "tabname": "Details",
-      "views": [
-        {
-          "title": "SileoFR",
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 275.41333333333336}",
-          "screenshots": [
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png",
-              "fullSizeURL": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png"
-            }
-          ],
-          "ipad": {
-            "itemCornerRadius": 9,
-            "itemSize": "{320, 550.8266666666667}",
-            "screenshots": [
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png?size=640",
-                "fullSizeURL": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png"
-              }
-            ],
-            "class": "DepictionScreenshotView"
-          },
-          "class": "DepictionScreenshotsView"
-        },
-        {
-          "markdown": "SileoFR vous permet de bénéficier de la modernité de Sileo avec le confort de votre langue maternelle!",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Known Issues",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "markdown": "",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Latest Version",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "title": "Version",
-          "text": "0.3.1",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Released",
-          "text": "2019/04/20",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Price",
-          "text": "Free",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "Charly Manderrier",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Contact Support",
-          "action": "",
-          "class": "DepictionTableButtonView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
-        }
-      ],
-      "class": "DepictionStackView"
-    },
+	"title":"SileoFR est désormais complet",
+	"useBoldText":true,
+	"useBottomMargin":false,
+	"class":"DepictionSubheaderView"
+	},
+	{
+	"markdown": "SileoFR vous permet de bénéficier de la modernité de Sileo avec le confort de votre langue maternelle!",
+	"useSpacing": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"itemCornerRadius": 6,
+	"itemSize": "{160, 275.41333333333336}",
+	"screenshots": [
+	{
+	"accessibilityText": "Screenshot",
+	"url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png"
+	},
+	{
+	"accessibilityText": "Screenshot",
+	"url": "url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/2.png"
+	}
+	],
+	"class": "DepictionScreenshotsView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
     {
-      "tabname": "Changelog",
-      "views": [
-		{
-          "title": "0.1",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\n\u2022 Initial Release",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/19</small>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
-}
+	"title":"# Other Features:<br/>* Add unsupported repositories<br/>* E-Mail and share your tweak lists easily<br/>* Auto-Respring after installation<br/>* Add multiple repositories at once",
+	"useBoldText":true,
+	"useBottomMargin":false,
+	"class":"DepictionMarkdownView"
+	},
+	{
+	"class": "DepictionSeparatorView"
+	},
+	{
+	"title": "Latest Version",
+	"class": "DepictionHeaderView"
+	},
+	{
+	"title": "Version",
+	"text": "0.3",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Sortie",
+	"text": "12 Avril 2019",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Prix",
+	"text": "Gratuit",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"title": "Développeur",
+	"text": "Charly Manderrier",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Contact Support",
+	"action": "depiction-https://oceantweak.tk/repo/depictions/SupportDepiction.json",
+	"class": "DepictionTableButtonView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Developer name. Hosted by Undecimus Repository.</small><style>body { text-align: center; }</style>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	}
+	],
+	"class": "DepictionStackView"
+	},
+	{
+	"tabname": "Nouveautés",
+	"views": [
+	{
+	"title": "Version 0.3",
+	"useBoldText": true,
+	"useBottomMargin": true,
+	"class": "DepictionSubheaderView"
+	},
+	{
+	"markdown": "Ajout de Native Depiction.",
+	"useSpacing": false,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"markdown": "<small style=\"color: #999; margin-top: -8px;\">Créer le 12 Avril 2019</small>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Charly Manderrier..</small><style>body { text-align: center; }</style>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	}
+	],
+	"class": "DepictionStackView"
+	}
+	],
+	"class": "DepictionTabView"
+	}
