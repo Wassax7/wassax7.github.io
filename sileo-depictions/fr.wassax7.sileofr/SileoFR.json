@@ -62,7 +62,7 @@
         },
         {
             "text": "Historique",
-            "action": "https://wassax7.github.io/depictions/?p=fr.wassax7.sileofr",
+            "action": "https://wassax7.github.io/depictions/changelog.html?p=fr.wassax7.sileofr",
             "yPadding": "50",
             "class": "DepictionButtonView"
         },
