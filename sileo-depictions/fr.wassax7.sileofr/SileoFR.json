@@ -36,12 +36,8 @@
           "class": "DepictionScreenshotsView"
         },
         {
-            "title": "Sileo FR Traduction francaise",
+            "title": "Sileo FR",
             "class": "DepictionHeaderView"
-        },
-        {
-            "title": "Traduction française de Sileo",
-            "class": "DepictionSubheaderView"
         },
         {
           "markdown": "SileoFR vous permet de bénéficier de la modernité de Sileo avec le confort de votre langue maternelle!",
@@ -76,13 +72,9 @@
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Contact Support",
+          "title": "Contacter le développeur",
           "action": "mailto:contact@charly-manderrier.fr",
           "class": "DepictionTableButtonView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         },
         {
           "spacing": 20,
