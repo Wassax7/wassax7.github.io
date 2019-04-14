@@ -36,11 +36,11 @@
           "class": "DepictionScreenshotsView"
         },
         {
-            "title": "Sileo FR Traduction francaise"
+            "title": "Sileo FR Traduction francaise",
             "class": "DepictionHeaderView"
         },
         {
-            "title": "Traduction française de Sileo"
+            "title": "Traduction française de Sileo",
             "class": "DepictionSubheaderView"
         },
         {
