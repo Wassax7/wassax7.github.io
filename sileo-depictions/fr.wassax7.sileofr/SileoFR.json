@@ -49,15 +49,15 @@
           "class": "DepictionMarkdownView"
         },
         {
-            "Class": "DepictionSpacerView"
+            "class": "DepictionSpacerView"
         },
         {
-            "Class": "DepictionHeaderView"
+            "class": "DepictionHeaderView"
             "title": "Fonctionne avec ModernDepictions"
             "alignement": "0"
         },
         {
-            "Class": "DepictionButtonView"
+            "class": "DepictionButtonView"
             "text": "Télécharger"
             "action": "http://repo.pixelomer.com"
         },
