@@ -96,7 +96,7 @@
             "markdown": "<small style=\"color: #999; margin-top: -8px;\">Mise à jour le 19 Avril 2019</small>",
             "useRawFormat": true,
             "class": "DepictionMarkdownView"
-        }
+        },
         {
             "title": "0.3",
             "useBoldText": true,
@@ -112,7 +112,7 @@
           "markdown": "<small style=\"color: #999; margin-top: -8px;\">Mise à jour le 17 Avril 2019</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
-        }
+        },
         {
             "title": "0.2.3",
             "useBoldText": true,
@@ -128,7 +128,7 @@
             "markdown": "<small style=\"color: #999; margin-top: -8px;\">Mise à jour le 17 Avril 2019</small>",
             "useRawFormat": true,
             "class": "DepictionMarkdownView"
-        }
+        },
         {
             "title": "0.2.2",
             "useBoldText": true,
@@ -144,7 +144,7 @@
             "markdown": "<small style=\"color: #999; margin-top: -8px;\">Mise à jour le 16 Avril 2019</small>",
             "useRawFormat": true,
             "class": "DepictionMarkdownView"
-        }
+        },
       ],
       "class": "DepictionStackView"
     }
