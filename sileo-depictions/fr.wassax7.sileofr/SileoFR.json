@@ -48,10 +48,11 @@
         {
           "class": "DepictionSeparatorView"
         },
-		{
-			"rating": "5",
-			"class": "DepictionRatingView"
-		},
+        {
+            "rating": "5",
+            "alignment": "0",
+            "class": "DepictionRatingView"
+        },
         {
           "class": "DepictionSeparatorView"
         },
