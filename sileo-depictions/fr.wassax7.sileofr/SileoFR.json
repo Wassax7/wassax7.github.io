@@ -12,8 +12,13 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png",
-              "fullSizeURL": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png"
+              "url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/2.png",
+              "fullSizeURL": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/2.png"
+            },
+            {
+                "accessibilityText": "Screenshot",
+                "url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png",
+                "fullSizeURL": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png"
             }
           ],
           "ipad": {
