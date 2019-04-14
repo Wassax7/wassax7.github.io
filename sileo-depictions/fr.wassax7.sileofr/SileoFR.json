@@ -15,6 +15,11 @@
               "url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png",
               "fullSizeURL": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/1.png"
             }
+            {
+                "accessibilityText": "Screenshot 2",
+                "url": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/2.png",
+                "fullSizeURL": "https://wassax7.github.io/depictions/fr.wassax7.sileofr/screenshots/2.png"
+            }
           ],
           "ipad": {
             "itemCornerRadius": 9,
@@ -31,7 +36,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "SileoFRU vous permet de bénéficier de la modernité de Sileo avec le confort de votre langue maternelle!",
+          "markdown": "SileoFR vous permet de bénéficier de la modernité de Sileo avec le confort de votre langue maternelle!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -39,19 +44,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "Known Issues",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "markdown": "",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Latest Version",
+          "title": "Dernière version",
           "class": "DepictionHeaderView"
         },
         {
@@ -60,23 +53,23 @@
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Released",
-          "text": "2019/04/20",
+          "title": "Sortie",
+          "text": "14 Avril 2019",
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Price",
-          "text": "Free",
+          "title": "Prix",
+          "text": "Gratuit",
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Developer",
+          "title": "Développeur",
           "text": "Charly Manderrier",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Contact Support",
-          "action": "",
+          "action": "mailto:contact@charly-manderrier.fr",
           "class": "DepictionTableButtonView"
         },
         {
@@ -91,23 +84,71 @@
       "class": "DepictionStackView"
     },
     {
-      "tabname": "Changelog",
+      "tabname": "Nouveautés",
       "views": [
 		{
-          "title": "0.1",
+          "title": "0.3.1",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Initial Release",
+          "markdown": "\t\n\u2022 Ajout d'une Native Depiction",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/19</small>",
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Mise à jour le 19 Avril 2019</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+        }
+        {
+            "title": "0.3",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+        },
+        {
+            "markdown": "\t\n\u2022 Mise à jour mineurs",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Mise à jour le 17 Avril 2019</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
+        }
+        {
+            "title": "0.2.3",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+        },
+        {
+            "markdown": "\t\n\u2022 Modifications",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+        },
+        {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Mise à jour le 17 Avril 2019</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+        }
+        {
+            "title": "0.2.2",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+        },
+        {
+            "markdown": "\t\n\u2022 Ajout des derniers fichiers de traduction.",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+        },
+        {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Mise à jour le 16 Avril 2019</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
         }
       ],
       "class": "DepictionStackView"
