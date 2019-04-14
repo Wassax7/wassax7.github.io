@@ -36,6 +36,14 @@
           "class": "DepictionScreenshotsView"
         },
         {
+            "class": "DepictionHeaderView"
+            "title": "Sileo FR Traduction francaise"
+        },
+        {
+            "class": "DepictionSubHeaderView"
+            "title": "Traduction française de Sileo"
+        },
+        {
           "markdown": "SileoFR vous permet de bénéficier de la modernité de Sileo avec le confort de votre langue maternelle!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
