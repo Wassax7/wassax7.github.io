@@ -61,8 +61,9 @@
             "class": "DepictionMarkdownView"
         },
         {
-            "text": "Test",
-            "action": "#",
+            "text": "Historique",
+            "action": "https://wassax7.github.io/depictions/?p=fr.wassax7.sileofr",
+            "yPadding": "50",
             "class": "DepictionButtonView"
         },
         {
