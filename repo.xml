@@ -6,9 +6,9 @@
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
-            <name>I want this depiction template</name>
-            <url>https://github.com/wassax7</url>
-            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+            <name>Envoyer un e-mail</name>
+            <url>mailto:contact@charly-manderrier.fr</url>
+            <iconclass>glyphicon glyphicon-mail</iconclass>
         </link>
     </footerlinks>
 </repo>
