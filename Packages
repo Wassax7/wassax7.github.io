@@ -15,18 +15,18 @@ Author: Wassax7
 Name: AlexTBonne
 
 Package: fr.wassax7.sileofr
-Version: 0.3
+Version: 0.3.1
 Architecture: iphoneos-arm
 Maintainer: Charly Manderrier
 Filename: ./debs/fr.wassax7.sileofr.deb
-Size: 6322
-MD5sum: 75ef51744bdfe99b67ef630dd2ab851c
-SHA1: a2e542c195b6fcb9a5c725582d1674d477a2c347
-SHA256: 7534c799412ce0bc2628bde128892c1b9efcc43da5f4034b16ee308080dd9a8f
+Size: 6324
+MD5sum: c2cfadbb4f00a0a3e31b8c61a7472c00
+SHA1: a9fab3524f281b7e0fb0abd7f39ef37d6ace5a54
+SHA256: 981f1b463606d573a9ff715a489e9bac1fc5b573cdf1740a8a420930cec6d6c7
 Section: Localization
 Description: Traduction française de Sileo!
 Author: Charly Manderrier
 Depiction: https://wassax7.github.io/depictions/?p=fr.wassax7.sileofr
 Name: SileoFR
-Sileodepiction: https://wassax7.github.io/sileodepictions/?p=fr.wassax7.sileofr.json
+Sileodepiction: https://wassax7.github.io/sileo-depictions/fr.wassax7.sileofr/
 
